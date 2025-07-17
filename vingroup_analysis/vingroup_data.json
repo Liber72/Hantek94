@@ -1,0 +1,137 @@
+{
+  "company_info": {
+    "name": "Tập đoàn VinGroup",
+    "ticker": "VIC",
+    "industry": "Đa ngành",
+    "currency": "VND",
+    "unit": "Tỷ VND"
+  },
+  "balance_sheet": {
+    "2023": {
+      "assets": {
+        "current_assets": {
+          "cash_and_equivalents": 45000,
+          "short_term_investments": 12000,
+          "accounts_receivable": 8500,
+          "inventory": 85000,
+          "prepaid_expenses": 3500,
+          "other_current_assets": 2000
+        },
+        "non_current_assets": {
+          "long_term_investments": 25000,
+          "property_plant_equipment": 180000,
+          "intangible_assets": 15000,
+          "goodwill": 5000,
+          "other_non_current_assets": 8000
+        }
+      },
+      "liabilities": {
+        "current_liabilities": {
+          "short_term_debt": 35000,
+          "accounts_payable": 12000,
+          "accrued_expenses": 8000,
+          "other_current_liabilities": 5000
+        },
+        "non_current_liabilities": {
+          "long_term_debt": 120000,
+          "deferred_tax_liabilities": 8000,
+          "other_non_current_liabilities": 10000
+        }
+      },
+      "equity": {
+        "share_capital": 50000,
+        "retained_earnings": 95000,
+        "other_equity": 5500
+      }
+    },
+    "2024": {
+      "assets": {
+        "current_assets": {
+          "cash_and_equivalents": 52000,
+          "short_term_investments": 15000,
+          "accounts_receivable": 9200,
+          "inventory": 92000,
+          "prepaid_expenses": 4000,
+          "other_current_assets": 2500
+        },
+        "non_current_assets": {
+          "long_term_investments": 28000,
+          "property_plant_equipment": 195000,
+          "intangible_assets": 18000,
+          "goodwill": 5000,
+          "other_non_current_assets": 9000
+        }
+      },
+      "liabilities": {
+        "current_liabilities": {
+          "short_term_debt": 38000,
+          "accounts_payable": 13500,
+          "accrued_expenses": 8800,
+          "other_current_liabilities": 5500
+        },
+        "non_current_liabilities": {
+          "long_term_debt": 125000,
+          "deferred_tax_liabilities": 9000,
+          "other_non_current_liabilities": 11000
+        }
+      },
+      "equity": {
+        "share_capital": 55000,
+        "retained_earnings": 108000,
+        "other_equity": 6200
+      }
+    }
+  },
+  "income_statement": {
+    "2023": {
+      "revenue": 156000,
+      "cost_of_goods_sold": 98000,
+      "gross_profit": 58000,
+      "operating_expenses": {
+        "selling_expenses": 15000,
+        "administrative_expenses": 12000,
+        "research_development": 3000
+      },
+      "operating_profit": 28000,
+      "financial_income": 2000,
+      "financial_expenses": 8000,
+      "profit_before_tax": 22000,
+      "tax_expense": 4400,
+      "net_profit": 17600
+    },
+    "2024": {
+      "revenue": 172000,
+      "cost_of_goods_sold": 108000,
+      "gross_profit": 64000,
+      "operating_expenses": {
+        "selling_expenses": 16500,
+        "administrative_expenses": 13200,
+        "research_development": 3500
+      },
+      "operating_profit": 30800,
+      "financial_income": 2500,
+      "financial_expenses": 8800,
+      "profit_before_tax": 24500,
+      "tax_expense": 4900,
+      "net_profit": 19600
+    }
+  },
+  "cash_flow": {
+    "2023": {
+      "operating_cash_flow": 25000,
+      "investing_cash_flow": -18000,
+      "financing_cash_flow": -5000,
+      "net_cash_flow": 2000,
+      "beginning_cash": 43000,
+      "ending_cash": 45000
+    },
+    "2024": {
+      "operating_cash_flow": 28000,
+      "investing_cash_flow": -22000,
+      "financing_cash_flow": 1000,
+      "net_cash_flow": 7000,
+      "beginning_cash": 45000,
+      "ending_cash": 52000
+    }
+  }
+}
