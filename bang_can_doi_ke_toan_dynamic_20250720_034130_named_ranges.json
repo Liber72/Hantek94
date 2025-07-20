@@ -1,0 +1,242 @@
+{
+  "created": "2025-07-20T03:41:30.967127",
+  "total_ranges": 43,
+  "ranges": {
+    "cashAndEquivalents": "D8",
+    "shortTermInvestments": "D9",
+    "accountsReceivable": "D10",
+    "inventory": "D11",
+    "prepaidExpenses": "D12",
+    "otherCurrentAssets": "D13",
+    "CurrentAssets": "D14",
+    "longTermReceivables": "D17",
+    "fixedAssets": "D18",
+    "intangibleAssets": "D19",
+    "longTermInvestments": "D20",
+    "otherNonCurrentAssets": "D21",
+    "NonCurrentAssets": "D22",
+    "TotalAssets": "D23",
+    "accountsPayable": "D29",
+    "shortTermLoans": "D30",
+    "accruedExpenses": "D31",
+    "taxesPayable": "D32",
+    "otherCurrentLiabilities": "D33",
+    "CurrentLiabilities": "D34",
+    "longTermLoans": "D37",
+    "provisions": "D38",
+    "otherNonCurrentLiabilities": "D39",
+    "NonCurrentLiabilities": "D40",
+    "TotalLiabilities": "D41",
+    "shareCapital": "D44",
+    "capitalSurplus": "D45",
+    "retainedEarnings": "D46",
+    "otherEquity": "D47",
+    "TotalEquity": "D48",
+    "TotalLiabilitiesAndEquity": "D49",
+    "revenue": "'Báo Cáo Kết Quả Kinh Doanh'!D5",
+    "costOfGoodsSold": "'Báo Cáo Kết Quả Kinh Doanh'!D6",
+    "grossProfit": "'Báo Cáo Kết Quả Kinh Doanh'!D7",
+    "operatingExpenses": "'Báo Cáo Kết Quả Kinh Doanh'!D8",
+    "operatingIncome": "'Báo Cáo Kết Quả Kinh Doanh'!D9",
+    "financialIncome": "'Báo Cáo Kết Quả Kinh Doanh'!D10",
+    "financialExpenses": "'Báo Cáo Kết Quả Kinh Doanh'!D11",
+    "otherIncome": "'Báo Cáo Kết Quả Kinh Doanh'!D12",
+    "otherExpenses": "'Báo Cáo Kết Quả Kinh Doanh'!D13",
+    "preTaxIncome": "'Báo Cáo Kết Quả Kinh Doanh'!D14",
+    "taxExpense": "'Báo Cáo Kết Quả Kinh Doanh'!D15",
+    "netIncome": "'Báo Cáo Kết Quả Kinh Doanh'!D16"
+  },
+  "balance_sheet_data": {
+    "assets": {
+      "current_assets": {
+        "cash_and_equivalents": {
+          "code": "111",
+          "value": 15000000000,
+          "name": "Tiền và tương đương tiền"
+        },
+        "short_term_investments": {
+          "code": "121",
+          "value": 8000000000,
+          "name": "Đầu tư tài chính ngắn hạn"
+        },
+        "accounts_receivable": {
+          "code": "131",
+          "value": 12000000000,
+          "name": "Phải thu khách hàng"
+        },
+        "inventory": {
+          "code": "141",
+          "value": 18000000000,
+          "name": "Hàng tồn kho"
+        },
+        "prepaid_expenses": {
+          "code": "151",
+          "value": 2000000000,
+          "name": "Chi phí trả trước ngắn hạn"
+        },
+        "other_current_assets": {
+          "code": "161",
+          "value": 3000000000,
+          "name": "Tài sản ngắn hạn khác"
+        }
+      },
+      "non_current_assets": {
+        "long_term_receivables": {
+          "code": "211",
+          "value": 5000000000,
+          "name": "Phải thu dài hạn"
+        },
+        "fixed_assets": {
+          "code": "221",
+          "value": 45000000000,
+          "name": "Tài sản cố định hữu hình"
+        },
+        "intangible_assets": {
+          "code": "231",
+          "value": 8000000000,
+          "name": "Tài sản cố định vô hình"
+        },
+        "long_term_investments": {
+          "code": "241",
+          "value": 12000000000,
+          "name": "Đầu tư tài chính dài hạn"
+        },
+        "other_non_current_assets": {
+          "code": "251",
+          "value": 2000000000,
+          "name": "Tài sản dài hạn khác"
+        }
+      }
+    },
+    "liabilities": {
+      "current_liabilities": {
+        "accounts_payable": {
+          "code": "311",
+          "value": 10000000000,
+          "name": "Phải trả người bán"
+        },
+        "short_term_loans": {
+          "code": "321",
+          "value": 15000000000,
+          "name": "Vay và nợ ngắn hạn"
+        },
+        "accrued_expenses": {
+          "code": "331",
+          "value": 5000000000,
+          "name": "Chi phí phải trả"
+        },
+        "taxes_payable": {
+          "code": "341",
+          "value": 3000000000,
+          "name": "Thuế và phí phải nộp"
+        },
+        "other_current_liabilities": {
+          "code": "351",
+          "value": 2000000000,
+          "name": "Nợ ngắn hạn khác"
+        }
+      },
+      "non_current_liabilities": {
+        "long_term_loans": {
+          "code": "411",
+          "value": 25000000000,
+          "name": "Vay và nợ dài hạn"
+        },
+        "provisions": {
+          "code": "421",
+          "value": 3000000000,
+          "name": "Dự phòng dài hạn"
+        },
+        "other_non_current_liabilities": {
+          "code": "431",
+          "value": 2000000000,
+          "name": "Nợ dài hạn khác"
+        }
+      }
+    },
+    "equity": {
+      "share_capital": {
+        "code": "511",
+        "value": 50000000000,
+        "name": "Vốn điều lệ"
+      },
+      "capital_surplus": {
+        "code": "521",
+        "value": 5000000000,
+        "name": "Thặng dư vốn cổ phần"
+      },
+      "retained_earnings": {
+        "code": "531",
+        "value": 15000000000,
+        "name": "Lợi nhuận sau thuế chưa phân phối"
+      },
+      "other_equity": {
+        "code": "541",
+        "value": 0,
+        "name": "Nguồn vốn chủ sở hữu khác"
+      }
+    }
+  },
+  "income_statement_data": {
+    "revenue": {
+      "code": "511",
+      "value": 80000000000,
+      "name": "Doanh thu thuần"
+    },
+    "cost_of_goods_sold": {
+      "code": "621",
+      "value": 50000000000,
+      "name": "Giá vốn hàng bán"
+    },
+    "gross_profit": {
+      "code": "631",
+      "value": 30000000000,
+      "name": "Lợi nhuận gộp"
+    },
+    "operating_expenses": {
+      "code": "641",
+      "value": 20000000000,
+      "name": "Chi phí bán hàng và quản lý"
+    },
+    "operating_income": {
+      "code": "651",
+      "value": 10000000000,
+      "name": "Lợi nhuận từ hoạt động kinh doanh"
+    },
+    "financial_income": {
+      "code": "661",
+      "value": 2000000000,
+      "name": "Thu nhập tài chính"
+    },
+    "financial_expenses": {
+      "code": "671",
+      "value": 1500000000,
+      "name": "Chi phí tài chính"
+    },
+    "other_income": {
+      "code": "681",
+      "value": 500000000,
+      "name": "Thu nhập khác"
+    },
+    "other_expenses": {
+      "code": "691",
+      "value": 200000000,
+      "name": "Chi phí khác"
+    },
+    "pre_tax_income": {
+      "code": "701",
+      "value": 10800000000,
+      "name": "Lợi nhuận trước thuế"
+    },
+    "tax_expense": {
+      "code": "711",
+      "value": 2160000000,
+      "name": "Chi phí thuế TNDN"
+    },
+    "net_income": {
+      "code": "721",
+      "value": 8640000000,
+      "name": "Lợi nhuận sau thuế"
+    }
+  }
+}
