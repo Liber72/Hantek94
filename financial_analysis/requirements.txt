@@ -1,0 +1,9 @@
+# Thư viện cần thiết cho hệ thống phân tích tài chính
+# Required libraries for financial analysis system
+
+openpyxl>=3.1.2          # Thao tác với file Excel, tạo công thức và biểu đồ
+pandas>=2.0.0            # Xử lý và phân tích dữ liệu
+numpy>=1.24.0            # Tính toán số học
+matplotlib>=3.7.0        # Tạo biểu đồ và trực quan hóa
+requests>=2.31.0         # Tải dữ liệu từ internet (nếu cần)
+datetime                 # Xử lý ngày tháng (built-in)
