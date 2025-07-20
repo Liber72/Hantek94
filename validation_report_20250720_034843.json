@@ -1,0 +1,249 @@
+{
+  "timestamp": "2025-07-20T03:48:43.188429",
+  "file_name": "bang_can_doi_ke_toan_dynamic_20250720_034831.xlsx",
+  "balance_equation": {
+    "total_assets": 130000000000,
+    "total_liabilities": 65000000000,
+    "total_equity": 65000000000,
+    "total_liab_equity": 130000000000,
+    "is_balanced": true,
+    "difference": 0,
+    "status": "balanced"
+  },
+  "named_ranges": {
+    "total_count": 43,
+    "valid_ranges": [
+      {
+        "name": "cashAndEquivalents",
+        "reference": "'Bảng Cân Đối Kế Toán'!D8",
+        "is_valid": true
+      },
+      {
+        "name": "shortTermInvestments",
+        "reference": "'Bảng Cân Đối Kế Toán'!D9",
+        "is_valid": true
+      },
+      {
+        "name": "accountsReceivable",
+        "reference": "'Bảng Cân Đối Kế Toán'!D10",
+        "is_valid": true
+      },
+      {
+        "name": "inventory",
+        "reference": "'Bảng Cân Đối Kế Toán'!D11",
+        "is_valid": true
+      },
+      {
+        "name": "prepaidExpenses",
+        "reference": "'Bảng Cân Đối Kế Toán'!D12",
+        "is_valid": true
+      },
+      {
+        "name": "otherCurrentAssets",
+        "reference": "'Bảng Cân Đối Kế Toán'!D13",
+        "is_valid": true
+      },
+      {
+        "name": "CurrentAssets",
+        "reference": "'Bảng Cân Đối Kế Toán'!D14",
+        "is_valid": true
+      },
+      {
+        "name": "longTermReceivables",
+        "reference": "D17",
+        "is_valid": true
+      },
+      {
+        "name": "fixedAssets",
+        "reference": "D18",
+        "is_valid": true
+      },
+      {
+        "name": "intangibleAssets",
+        "reference": "D19",
+        "is_valid": true
+      },
+      {
+        "name": "longTermInvestments",
+        "reference": "D20",
+        "is_valid": true
+      },
+      {
+        "name": "otherNonCurrentAssets",
+        "reference": "D21",
+        "is_valid": true
+      },
+      {
+        "name": "NonCurrentAssets",
+        "reference": "D22",
+        "is_valid": true
+      },
+      {
+        "name": "TotalAssets",
+        "reference": "'Bảng Cân Đối Kế Toán'!D23",
+        "is_valid": true
+      },
+      {
+        "name": "accountsPayable",
+        "reference": "D29",
+        "is_valid": true
+      },
+      {
+        "name": "shortTermLoans",
+        "reference": "D30",
+        "is_valid": true
+      },
+      {
+        "name": "accruedExpenses",
+        "reference": "D31",
+        "is_valid": true
+      },
+      {
+        "name": "taxesPayable",
+        "reference": "D32",
+        "is_valid": true
+      },
+      {
+        "name": "otherCurrentLiabilities",
+        "reference": "D33",
+        "is_valid": true
+      },
+      {
+        "name": "CurrentLiabilities",
+        "reference": "D34",
+        "is_valid": true
+      },
+      {
+        "name": "longTermLoans",
+        "reference": "D37",
+        "is_valid": true
+      },
+      {
+        "name": "provisions",
+        "reference": "D38",
+        "is_valid": true
+      },
+      {
+        "name": "otherNonCurrentLiabilities",
+        "reference": "D39",
+        "is_valid": true
+      },
+      {
+        "name": "NonCurrentLiabilities",
+        "reference": "D40",
+        "is_valid": true
+      },
+      {
+        "name": "TotalLiabilities",
+        "reference": "D41",
+        "is_valid": true
+      },
+      {
+        "name": "shareCapital",
+        "reference": "D44",
+        "is_valid": true
+      },
+      {
+        "name": "capitalSurplus",
+        "reference": "D45",
+        "is_valid": true
+      },
+      {
+        "name": "retainedEarnings",
+        "reference": "D46",
+        "is_valid": true
+      },
+      {
+        "name": "otherEquity",
+        "reference": "D47",
+        "is_valid": true
+      },
+      {
+        "name": "TotalEquity",
+        "reference": "D48",
+        "is_valid": true
+      },
+      {
+        "name": "TotalLiabilitiesAndEquity",
+        "reference": "D49",
+        "is_valid": true
+      },
+      {
+        "name": "revenue",
+        "reference": "'Báo Cáo Kết Quả Kinh Doanh'!D5",
+        "is_valid": true
+      },
+      {
+        "name": "costOfGoodsSold",
+        "reference": "'Báo Cáo Kết Quả Kinh Doanh'!D6",
+        "is_valid": true
+      },
+      {
+        "name": "grossProfit",
+        "reference": "'Báo Cáo Kết Quả Kinh Doanh'!D7",
+        "is_valid": true
+      },
+      {
+        "name": "operatingExpenses",
+        "reference": "'Báo Cáo Kết Quả Kinh Doanh'!D8",
+        "is_valid": true
+      },
+      {
+        "name": "operatingIncome",
+        "reference": "'Báo Cáo Kết Quả Kinh Doanh'!D9",
+        "is_valid": true
+      },
+      {
+        "name": "financialIncome",
+        "reference": "'Báo Cáo Kết Quả Kinh Doanh'!D10",
+        "is_valid": true
+      },
+      {
+        "name": "financialExpenses",
+        "reference": "'Báo Cáo Kết Quả Kinh Doanh'!D11",
+        "is_valid": true
+      },
+      {
+        "name": "otherIncome",
+        "reference": "'Báo Cáo Kết Quả Kinh Doanh'!D12",
+        "is_valid": true
+      },
+      {
+        "name": "otherExpenses",
+        "reference": "'Báo Cáo Kết Quả Kinh Doanh'!D13",
+        "is_valid": true
+      },
+      {
+        "name": "preTaxIncome",
+        "reference": "'Báo Cáo Kết Quả Kinh Doanh'!D14",
+        "is_valid": true
+      },
+      {
+        "name": "taxExpense",
+        "reference": "'Báo Cáo Kết Quả Kinh Doanh'!D15",
+        "is_valid": true
+      },
+      {
+        "name": "netIncome",
+        "reference": "'Báo Cáo Kết Quả Kinh Doanh'!D16",
+        "is_valid": true
+      }
+    ],
+    "invalid_ranges": [],
+    "missing_references": [
+      "Revenue",
+      "NetIncome"
+    ],
+    "status": "warning"
+  },
+  "formula_errors": [],
+  "data_validation": {
+    "positive_values": true,
+    "reasonable_ranges": true,
+    "data_types": true,
+    "completeness": true,
+    "issues": []
+  },
+  "overall_status": "excellent",
+  "backup_file": "backups/bang_can_doi_ke_toan_dynamic_20250720_034831_backup_20250720_034843.xlsx"
+}

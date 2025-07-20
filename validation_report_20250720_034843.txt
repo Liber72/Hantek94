@@ -1,0 +1,25 @@
+BÁO CÁO VALIDATION HỆ THỐNG TÀI CHÍNH ĐỘNG
+============================================================
+Thời gian: 2025-07-20T03:48:43.188429
+File: bang_can_doi_ke_toan_dynamic_20250720_034831.xlsx
+Trạng thái tổng thể: excellent
+
+1. PHƯƠNG TRÌNH CÂN ĐỐI KẾ TOÁN:
+   - Tổng tài sản: 130000000000
+   - Tổng nguồn vốn: 130000000000
+   - Chênh lệch: 0
+   - Trạng thái: balanced
+
+2. NAMED RANGES:
+   - Tổng số: 43
+   - Hợp lệ: 43
+   - Không hợp lệ: 0
+   - Thiếu: 2
+
+3. LỖI CÔNG THỨC:
+   - Số lỗi: 0
+
+4. TÍNH TOÀN VẸN DỮ LIỆU:
+   - Giá trị dương: True
+   - Khoảng hợp lý: True
+   - Số vấn đề: 0

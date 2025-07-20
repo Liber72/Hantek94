@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-07-20T03:46:36.598777",
+  "file_name": "bang_can_doi_ke_toan_dynamic_20250720_034130.xlsx",
+  "balance_equation": {
+    "total_assets": 130000000000,
+    "total_liabilities": 65000000000,
+    "total_equity": 70000000000,
+    "total_liab_equity": 135000000000,
+    "is_balanced": false,
+    "difference": 5000000000,
+    "status": "unbalanced"
+  },
+  "named_ranges": {
+    "total_count": 0,
+    "valid_ranges": [],
+    "invalid_ranges": [],
+    "missing_references": [
+      "TotalAssets",
+      "CurrentAssets",
+      "NonCurrentAssets",
+      "TotalLiabilities",
+      "CurrentLiabilities",
+      "NonCurrentLiabilities",
+      "TotalEquity",
+      "Revenue",
+      "NetIncome"
+    ],
+    "status": "poor"
+  },
+  "formula_errors": [],
+  "data_validation": {
+    "positive_values": true,
+    "reasonable_ranges": true,
+    "data_types": true,
+    "completeness": true,
+    "issues": []
+  },
+  "overall_status": "fair",
+  "backup_file": "backups/bang_can_doi_ke_toan_dynamic_20250720_034130_backup_20250720_034636.xlsx"
+}
